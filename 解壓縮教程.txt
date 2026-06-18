@@ -1,0 +1,4 @@
+請把四份壓縮文件搬到同一個文件夾中（隨便一個文件夾）并且必須要用WINRAR解壓縮，只需要解壓“Demo.part1.rar”解壓後便可觀看Demo
+1.新建文件夾
+2.把四分壓縮文件放到新建文件夾中：Demo.part1.rar,Demo.part2.rar...
+3.用WINRAR解壓縮文件“Demo.part1.rar”,便可觀看完整Demo
